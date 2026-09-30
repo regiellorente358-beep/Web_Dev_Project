@@ -1,0 +1,20 @@
+h1{
+    color: blueviolet;
+}
+h2{
+    color: blueviolet;
+}
+.box p.done{
+    color: yellowgreen;
+    font-size: 18px;
+}
+.done{
+    color: red;
+}
+li{
+    color: violet;
+}
+p.done{
+    color: black;
+    font-size: xx-small;
+}
